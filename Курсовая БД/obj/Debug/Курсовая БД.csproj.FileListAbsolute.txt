@@ -1,0 +1,33 @@
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\bin\Debug\Курсовая БД.exe.config
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\bin\Debug\Курсовая БД.exe
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\bin\Debug\Курсовая БД.pdb
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая БД.csprojAssemblyReference.cache
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Form1.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Properties.Resources.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая БД.csproj.GenerateResource.cache
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая БД.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая БД.exe
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая БД.pdb
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.MainWindow_Admin_.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.MainWindow.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\bin\Debug\Student.mdf
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\bin\Debug\Student_log.ldf
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.BDofStudents.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\bin\Debug\Database1.mdf
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\bin\Debug\Database1_log.ldf
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Add.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Delete.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Update.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Add_1.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Update_1.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Delete_1.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Add_2.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Delete_2.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Update_2.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Add_3.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Add_4.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Delete_3.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Delete_4.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Update_3.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.Update_4.resources
+C:\Users\Yarik\source\repos\Курсовая БД\Курсовая БД\obj\Debug\Курсовая_БД.MyInfo.resources
